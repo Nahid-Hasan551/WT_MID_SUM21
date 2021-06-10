@@ -1,0 +1,30 @@
+body
+{
+    margin: 0;
+    padding: 0;
+   
+    background-size: cover ;
+    background-position: sans-serif;
+}
+h3{
+	margin: 0;
+	text-align:justify;
+	color: red;
+}
+form input[type="text"]
+{
+ position: absolute;
+ left: 300px;
+}
+
+
+
+select
+{
+ position: absolute;
+ left: 300px;
+}
+textarea{
+	position: absolute;
+	left: 300px
+}
